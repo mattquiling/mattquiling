@@ -6,7 +6,7 @@ Hi, I’m Matthew Meinrad F. Quiling, I am an easy going and determined person c
 - PHP
 
 When I am not coding and studying, some of the things I enjoy doing include:
-- Playing Video Game
+- Playing Video Games
 - Watching movies
 - Listening to music
 - Working out
