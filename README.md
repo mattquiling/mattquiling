@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Matthew Meinrad F. Quiling, I am currently a college student taking the course of Bachelor in Science of Information and Technology. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-mattquiling/mattquiling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Matthew Meinrad F. Quiling, I am an easy going and determined person currently a college student taking the course of Bachelor in Science of Information and Technology. During my time in college, the languages I have encountered so far are:
+- Python
+- HTML & CSS
+- Java
+- C++
+- PHP
+When I am not coding and studying, some of the things I enjoy doing include:
+- Playing Video Game
+- Watching movies
+- Listening to music
+- Working out
+- Reading
+I’m interested in Web Designing currently learning more about web development. I'd like to take things one step at a time so once I mastered web designing, I'd like to learn more programming languages to enhance and further my knowledge and skills.
